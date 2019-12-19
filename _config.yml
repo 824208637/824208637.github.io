@@ -121,7 +121,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
+# https://824208637.github.io/
 exclude:
   - Gemfile
   - Gemfile.lock
