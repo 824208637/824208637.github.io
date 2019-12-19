@@ -4,7 +4,7 @@ email:       824208637@qq.com
 author:      Chen Yanyi
 description: "Chen Yanyi's Blog"
 baseurl:     ""
-url:         "https://824208637.github.io/."
+url:         "https://824208637.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
